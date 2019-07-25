@@ -3054,8 +3054,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-banner {
-  background: url(../img/top-banner.jpg) right no-repeat;
-  background-size: cover;
+  background: url(../img/top-banner.jpg) center no-repeat;
+  
+  height: 900px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
 }
 
 .about-content {
