@@ -2464,8 +2464,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 .primary-btn {
   background: #f6214b;
   line-height: 42px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: 170px;
   border: none;
   color: #fff;
   display: inline-block;
